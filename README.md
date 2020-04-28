@@ -1,1 +1,1 @@
-#Artificial Inteligence in KTH
+Artificial Inteligence in KTH
